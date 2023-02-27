@@ -1,0 +1,16 @@
+
+// USERS  ;;;;
+
+
+
+username, 
+email, 
+password 
+passwordConfrim
+image
+
+//
+// working jwt my  steps to follow
+step 1 ) create a user Schema
+step 2 ) validate some fields
+step 3 ) need to install bcryptjs for hashing for passwords 
